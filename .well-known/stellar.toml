@@ -19,9 +19,7 @@ ORG_LOGO                = "https://stellarbridge.vercel.app/og-image.png"
 ORG_DESCRIPTION         = "StellarBridge is a trustless, non-custodial cross-chain bridge built on the Stellar blockchain, enabling seamless asset transfers across chains with sub-second finality and near-zero fees."
 ORG_TWITTER             = "StellarBridge"
 ORG_GITHUB              = "StellarBridge"
-ORG_OFFICIAL_EMAIL      = "hello@stellarbridge.io"
-ORG_SUPPORT_EMAIL       = "support@stellarbridge.io"
-ORG_KEYBASE             = "stellarbridge"
+ORG_KEYBASE             = "StellarBridge"
 
 # ------------------------------------------------------------------------------
 # SIGNING KEY
